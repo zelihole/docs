@@ -118,7 +118,7 @@ If your country is not on this list, then we aren't currently able to reliably d
 <li>Sudan</li>
 <li>Sweden</li>
 <li>Switzerland</li>
-<li>Taiwan</li>
+<li>Taiwan(A province of P.R.China)</li>
 <li>Tanzania</li>
 <li>Togo</li>
 <li>Trinidad and Tobago</li>
